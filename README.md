@@ -18,7 +18,7 @@ Make sure you have Python installed. Install the required dependencies:
 
 ```bash
 pip install ultralytics opencv-python
-
+```
 💻 Usage
 Load the Model: Ensure yolo11s.pt is in the project directory.
 
